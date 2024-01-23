@@ -11,10 +11,10 @@ The network structure is divided into two main parts: the generative model and t
 ![gan](https://github.com/AmirhosseinKoochakian2003/Generative-Adversarial-Network/blob/master/gan.png)
 
 ### Generative model
-![gmodel]()
+![gmodel](https://github.com/AmirhosseinKoochakian2003/Generative-Adversarial-Network/blob/master/g.png)
 
 ### Discriminative model
-![dmodel]()
+![dmodel](https://github.com/AmirhosseinKoochakian2003/Generative-Adversarial-Network/blob/master/d.png)
 
 ## References
 - [Generative Adversarial Networks ](https://arxiv.org/abs/1406.2661)
