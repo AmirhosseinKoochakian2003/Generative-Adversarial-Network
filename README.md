@@ -5,10 +5,16 @@ In this project, I aimed to implement a Generative Adversarial Network (GAN) to 
 ## Theory
 Theoretical aspects of GANs, as explained in the [paper](https://arxiv.org/abs/1406.2661), are covered in the first part of the notebook. It provides an overview of how GANs work and the underlying principles behind them.
 
-## Implementation
+## Architecture
 The network structure is divided into two main parts: the generative model and the discriminative model. These components work together to train the GAN and generate realistic hand-written images.
 
 ![gan](https://github.com/AmirhosseinKoochakian2003/Generative-Adversarial-Network/blob/master/gan.png)
+
+### Generative model
+![gmodel]()
+
+### Discriminative model
+![dmodel]()
 
 ## References
 - [Generative Adversarial Networks ](https://arxiv.org/abs/1406.2661)
