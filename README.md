@@ -27,5 +27,3 @@ The network structure is divided into two main parts: the generative model and t
 - [Generative Adversarial Networks ](https://arxiv.org/abs/1406.2661)
 Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
 
-- [GAN Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fmlearning-ai%2Fgenerative-adversarial-networks-gan-introduction-and-example-3b66f5f235e9&psig=AOvVaw2DiwkBG0Jv5LZWKijswMoG&ust=1706087487049000&source=images&cd=vfe&opi=89978449&ved=0CBUQjhxqFwoTCPCH1baV84MDFQAAAAAdAAAAABAg)
-
